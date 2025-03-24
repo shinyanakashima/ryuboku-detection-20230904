@@ -4,4 +4,4 @@
 
 ## note
 当日の海岸は霧が濃かったため、２回目を撮影し下記リポジトリへ格納している。
-https://github.com/shinyanakashima/ryuboku-detection-20230904-2
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)]([https://github.com/example/my-awesome-project](https://github.com/shinyanakashima/ryuboku-detection-20230904-2))
